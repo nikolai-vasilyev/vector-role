@@ -1,2 +1,3 @@
 ---
-# vars file for vector-role
+vector_config_file: /etc/vector/vector.yaml
+vector_template: ./template/vector.yaml.j2
