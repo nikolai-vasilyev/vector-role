@@ -7,6 +7,7 @@ A brief description of the role goes here.
 
 Requirements
 ------------
+
 Debian 12
 ansible [core 2.14.16]
 python version = 3.11
